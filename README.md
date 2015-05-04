@@ -55,6 +55,7 @@ Solution to http://apply.dataprocessors.com.au/
 6. Wait for results. If the results say something like, "You need to submit within 1 second", try again and perhaps you'll be faster this time.
 
 Script for the latest puzzle (as of 4 May 2015):
+
 	(function() {
 	    // Load the script
 	    var script = document.createElement("SCRIPT");
